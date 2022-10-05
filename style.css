@@ -1,0 +1,25 @@
+* {
+    font-family: 'Montserrat';
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#box {
+    display: flex;
+    background-color: rgb(255, 84, 84);
+    justify-content: space-between;
+    height: 100px;
+    padding-top: 20px;
+}
+
+#d3 button {
+    background-color: rgb(47, 47, 231);
+    border: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: none;
+}
